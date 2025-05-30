@@ -6,4 +6,4 @@ Este documento contém registros práticos de atividades realizadas durante um c
 - Uso de ferramentas como Wireshark, tcpdump e VirusTotal
 - Reflexões pessoais sobre aprendizado e ferramentas
 
-> 📄 Arquivo disponível: [View PDF](./incident-handlers-journal/incident-handlers-journal.pdf.pdf)
+> 📄 Arquivo disponível: [View PDF](./incident-handlers-journal/incident-handlers-journal.pdf)
