@@ -1,9 +1,9 @@
 # Incident Handler's Journal
 
-Este documento contém registros práticos de atividades realizadas durante um curso de resposta a incidentes, incluindo:
+This document contains practical records of activities carried out during an incident response course, including:
 
-- Documentação de incidentes reais simulados
-- Uso de ferramentas como Wireshark, tcpdump e VirusTotal
-- Reflexões pessoais sobre aprendizado e ferramentas
+- Documentation of simulated real-world incidents
+- Use of tools such as Wireshark, tcpdump, and VirusTotal
+- Personal reflections on learning and tools
 
-> 📄 Arquivo disponível: [View PDF](./Incident-handlers-journal.pdf.pdf)
+📄 File available: [View PDF](./Incident-handlers-journal.pdf.pdf)
